@@ -7,7 +7,7 @@
 ## Command Install :
 
 ```bash
-bash <(curl -s )
+bash <(curl -s https://raw.githubusercontent.com/waraxe00/Pterodactyl-Theme-Autoinstaller/main/install.sh)
 ```
 
 ## Fitur Tools :
